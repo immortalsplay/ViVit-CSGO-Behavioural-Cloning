@@ -1,5 +1,6 @@
 # ViVit-csgo-imitation
 ##Description
+=
 Counter-Strike Retake with Large-Scale Behavioural Cloning
 
 Our team inspired by cambridge Tim Pearce work (https://arxiv.org/abs/2104.04258).
